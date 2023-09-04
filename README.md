@@ -1,5 +1,6 @@
-# CURRENCY-CONVERTER-IN-C-
-This helps in converting currency from one form to another by giving any value at run time.
+# CURRENCY-CONVERTER-IN-CPP
+
+
 #include<iostream>
 using namespace std;
 int main(){
